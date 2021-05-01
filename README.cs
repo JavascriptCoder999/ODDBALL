@@ -1,4 +1,4 @@
-# ODDBALL
+//# ODDBALL
 //add a background (big rectangle)
 //add a scene
 //add an oddball go group containing hands, shirt, head and an oddball body base
